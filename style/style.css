@@ -1,0 +1,11 @@
+/* CSS Document */
+body{
+	background-color: #e9e3f4;
+}
+
+nav li{
+	display: inline;
+	list-style-type: none;
+	padding: 2em;
+	width: auto;
+}
